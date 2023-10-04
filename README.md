@@ -65,7 +65,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```bash
-  git clone https://github.com/EvansSnave/space-traveler.git
+  git clone https://github.com/gdvl777/space_traveler.git
 ```
 
 <br>
@@ -75,7 +75,7 @@ Example commands:
 Install this project's dependencies with:
 
 ```
-cd .\space-traveler
+cd .\space_traveler
 npm install
 ```
 
@@ -111,11 +111,23 @@ You may also see any lint errors in the console.
 
 ### 👥 Author <a name="authors"></a>
 
+👤 **Daniel Villalba Lynch**
+
+-   GitHub: [@gdvl777](https://github.com/gdvl777)
+-   X: [X](https://www.x.com/gdvl777_)
+
 👤 **EvanSnave**
 
 - GitHub: [EvansSnave](https://github.com/EvansSnave)
 - Twitter: [Kroja13](https://twitter.com/Kroja13)
 - LinkedIn: [Kevin Cruz](https://www.linkedin.com/in/kevin-cruz-25159a201/)
+
+👤 **Engr. Animashaun Fisayo**
+
+- [GitHub](https://github.com/fmanimashaun)
+- [Twitter](https://twitter.com/fmanimashaun)
+- [LinkedIn](https://www.linkedin.com/in/fmanimashaun/)
+- [Website](https://fmanimashaun.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
