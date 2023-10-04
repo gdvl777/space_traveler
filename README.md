@@ -119,13 +119,13 @@ You may also see any lint errors in the console.
 👤 **EvanSnave**
 
 - GitHub: [EvansSnave](https://github.com/EvansSnave)
-- Twitter: [Kroja13](https://twitter.com/Kroja13)
+- X: [Kroja13](https://twitter.com/Kroja13)
 - LinkedIn: [Kevin Cruz](https://www.linkedin.com/in/kevin-cruz-25159a201/)
 
 👤 **Engr. Animashaun Fisayo**
 
 - [GitHub](https://github.com/fmanimashaun)
-- [Twitter](https://twitter.com/fmanimashaun)
+- [X](https://twitter.com/fmanimashaun)
 - [LinkedIn](https://www.linkedin.com/in/fmanimashaun/)
 - [Website](https://fmanimashaun.com)
 
