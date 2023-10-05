@@ -4,11 +4,11 @@ import Table from 'react-bootstrap/Table';
 
 const MyProfile = () => {
   const rockets = useSelector((state) => state.rockets);
-  // const missions = useSelector((state) => state.missions.missions);
+  const missions = useSelector((state) => state.missions.missions);
   const dragons = useSelector((state) => state.dragons);
   const reservedRockets = rockets.filter((rocket) => rocket.reserved);
   const reservedDragons = dragons.filter((dragon) => dragon.reserved);
-  // const joinedMissions = missions.filter((mission) => mission.reserved);
+  const joinedMissions = missions.filter((mission) => mission.reserved);
 
   return (
     <div
@@ -28,11 +28,11 @@ const MyProfile = () => {
             </tr>
           </thead>
           <tbody>
-            {/* {joinedMissions.map((mission) => (
+            {joinedMissions.map((mission) => (
               <tr key={mission.mission_id}>
                 <td>{mission.mission_name}</td>
               </tr>
-            ))} */}
+            ))}
           </tbody>
         </Table>
       </div>
