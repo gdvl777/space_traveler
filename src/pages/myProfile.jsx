@@ -5,9 +5,9 @@ import Table from 'react-bootstrap/Table';
 const MyProfile = () => {
   const rockets = useSelector((state) => state.rockets);
   // const missions = useSelector((state) => state.missions.missions);
-  // const dragons = useSelector((state) => state.dragons);
+  const dragons = useSelector((state) => state.dragons);
   const reservedRockets = rockets.filter((rocket) => rocket.reserved);
-  // const reservedDragons = dragons.filter((dragon) => dragon.reserved);
+  const reservedDragons = dragons.filter((dragon) => dragon.reserved);
   // const joinedMissions = missions.filter((mission) => mission.reserved);
 
   return (
@@ -60,11 +60,11 @@ const MyProfile = () => {
             </tr>
           </thead>
           <tbody>
-            {/* {reservedDragons.map((dragon) => (
+            {reservedDragons.map((dragon) => (
               <tr key={dragon.dragon_id}>
                 <td>{dragon.dragon_name}</td>
               </tr>
-            ))} */}
+            ))}
           </tbody>
         </Table>
       </div>
