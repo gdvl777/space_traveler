@@ -9,9 +9,9 @@ import Dragons from './pages/dragon';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => (
-  <Router basename="/EvansSnave">
+  <Router>
     <NavBar />
-    <Routes>
+    <Routes basename="space_traveler">
       <Route path="/space-traveler" element={<Rockets />} />
       <Route path="/myprofile" element={<MyProfile />} />
       <Route path="/dragons" element={<Dragons />} />
