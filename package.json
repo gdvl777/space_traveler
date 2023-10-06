@@ -2,7 +2,7 @@
   "name": "space-travelers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/EvansSnave/space-traveler",
+  "homepage": "https://gdvl777.github.io/space_traveler/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/user-event": "^13.5.0",
@@ -16,6 +16,7 @@
     "react-router-dom": "^6.14.2",
     "react-scripts": "^5.0.1",
     "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
